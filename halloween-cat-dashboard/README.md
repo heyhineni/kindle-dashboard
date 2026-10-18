@@ -8,7 +8,7 @@ A dynamic lock-screen dashboard: time, date, a year-progress bar,
 and Halloween-themed cat artwork, redrawn every time the device
 sleeps.
 
-![screensaver example](assets/cat_october.png)
+![screensaver example](assets/dashboard_on_device.jpg)
 
 ## Requirements
 
