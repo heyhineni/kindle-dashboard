@@ -95,7 +95,7 @@ assets/cat_october.png  the artwork used in this version
   repainting over the custom screensaver. See that project for
   source and for builds targeting other architectures.
 - Layout inspired by a screensaver shared on
-  [r/kindle](https://www.reddit.com/r/kindle/).
+  [r/kindle](https://www.reddit.com/r/kindle/s/jjLWXLg9bg).
 
 ## License
 
